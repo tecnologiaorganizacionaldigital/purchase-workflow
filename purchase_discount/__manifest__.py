@@ -21,6 +21,6 @@
         "views/res_partner_view.xml",
     ],
     "license": "AGPL-3",
-    "installable": True,
+    "installable": False,
     "images": ["images/purchase_discount.png"],
 }
